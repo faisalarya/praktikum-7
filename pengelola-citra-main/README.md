@@ -1,7 +1,7 @@
 # Praktikum Pert13
-| **Nama**            | **Muhamad Jati Wasesa** |
+| **Nama**            | **Faisal Arya Yudanto** |
 |---------------------|-------------------------|
-| **NIM**             | **31210481**            |
+| **NIM**             | **31210555**            |
 | **Kelas**           | **TI.22.A5**            |
 
 # Steganografi dengan Python
