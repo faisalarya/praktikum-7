@@ -1,6 +1,6 @@
-|Nama |_Muhamad Jati Wasesa_|
+|Nama |_Faisal Arya Yudanto_|
 | :- | :- |
-|**Nim** |_312210481_|
+|**Nim** |_312210555_|
 |**Kelas** |_TI.22.A.5_|
 |**Mata Kuliah**|_Pemgraman Web 2_|
 |**Tugas** |_Praktikum 7_|
